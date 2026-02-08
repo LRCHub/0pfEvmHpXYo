@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "星占いと朝",
+  "base_artist": "カネコアヤノ",
+  "createdAt": "2026-02-08T15:11:46.917332Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星占いと朝",
+      "artist": "カネコアヤノ",
+      "has_synced": false,
+      "path": "select/pl_01_星占いと朝_カネコアヤノ.txt"
+    }
+  ]
+}
